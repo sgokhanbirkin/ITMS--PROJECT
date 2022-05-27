@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065259755377",
+    "project_id": "snackover-vbt",
+    "storage_bucket": "snackover-vbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065259755377:android:ba4f83aaa86c67e6d178d0",
+        "android_client_info": {
+          "package_name": "com.example.itms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065259755377-rv8ckcsdfhvkpgt0vijm84ftfons4g85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GeQubX27_OE4H4HYNohT-w8o4IlxEzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065259755377-rv8ckcsdfhvkpgt0vijm84ftfons4g85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
